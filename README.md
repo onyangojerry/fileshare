@@ -4,13 +4,13 @@
 The **Distributed File Storage System** is a scalable and high-performance cloud-based storage solution built using **FastAPI**. It supports **file uploads, downloads, access control, sharding, replication, and caching** for optimized storage and retrieval. The system ensures **high availability, fault tolerance, and security** by distributing files across multiple nodes.
 
 ## Features
-- 🚀 **File Upload & Download** – Securely upload and retrieve files.
-- 🔑 **Access Control** – Role-based permissions for file access.
-- 🏗 **Sharding & Replication** – Distributes files across nodes for fault tolerance.
-- ⚡ **Caching Mechanism** – Improves performance by storing frequently accessed files.
-- 📡 **API Token Authentication** – Secure API access using JWT.
-- 📊 **Real-time Monitoring** – Log and track file operations.
-- 🏗 **Docker & Kubernetes Support** – Containerized deployment for scalability.
+- **File Upload & Download** – Securely upload and retrieve files.
+- **Access Control** – Role-based permissions for file access.
+- **Sharding & Replication** – Distributes files across nodes for fault tolerance.
+- **Caching Mechanism** – Improves performance by storing frequently accessed files.
+- **API Token Authentication** – Secure API access using JWT.
+- **Real-time Monitoring** – Log and track file operations.
+- **Docker & Kubernetes Support** – Containerized deployment for scalability.
 
 ## Tech Stack
 - **Backend:** FastAPI, Python
